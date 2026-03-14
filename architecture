@@ -1,0 +1,17 @@
+[Kali Linux (Attacker)]
+          |
+          v
+      [Network]
+          |
+          v
+[Windows 10 (Victim)]
+   |           |
+Sysmon      Wazuh Agent
+          |
+          v
+     [Ubuntu Server]
+       Wazuh Manager
+          |
+      Suricata IDS
+          |
+     VirusTotal API
