@@ -34,3 +34,7 @@ On the Windows 10 Target: Create a new file or move a known malicious hash (like
 Look for an event where the "VirusTotal" field is populated.
 Alternatively, go to Discover and search for integration: virustotal
 
+
+
+"To trigger the virustotal alert : You have to temporary disable the window defender"
+ 
